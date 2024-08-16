@@ -23,13 +23,13 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
-![](./screenshot.jpg)
+![](./images/Sreenshot-Desktop.png)
+![](./images/Screenshot-Mobile.png)
 
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- [Live site URL](https://lynaifr.github.io/huddle-landing-page/)
 
 ## My process
 
@@ -38,7 +38,6 @@ Users should be able to:
 - Semantic HTML5 markup
 - CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
 - Font Awesome
 - media query
