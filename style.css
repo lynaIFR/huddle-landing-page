@@ -106,7 +106,7 @@ svg:hover {
 
 @media only screen and (min-width: 600px) {
     body {
-        padding: 0.5rem 4rem;
+        padding: 3rem;
         background-image: url(./images/bg-desktop.svg);
         background-repeat: no-repeat;
         gap: 1rem;
@@ -117,8 +117,9 @@ svg:hover {
     }
 
     .container {
-        display: flex;
-        flex-direction: row;
+        margin-top: 3rem;
+        display: grid;
+        grid-template-columns: 1fr 1fr;
     }
 
     article {
@@ -127,6 +128,7 @@ svg:hover {
 
     button {
         align-self: start;
+        width: 9rem;
     }
 
     footer {
