@@ -24,6 +24,7 @@ Users should be able to:
 ### Screenshot
 
 ![](./screenshot.jpg)
+![](./screenshot.jpg)
 
 ### Links
 
@@ -39,6 +40,9 @@ Users should be able to:
 - Flexbox
 - CSS Grid
 - Mobile-first workflow
+- Font Awesome
+- media query
+- SVG
 
 ## Author
 
